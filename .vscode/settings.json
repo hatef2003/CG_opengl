@@ -1,0 +1,6 @@
+{
+    "cmake.sourceDirectory": "D:/opengl-cpp-template-master/opengl-cpp-template-master/include/glm",
+    "files.associations": {
+        "cmath": "cpp"
+    }
+}
